@@ -1,3 +1,7 @@
-Project Title: Simple Interest Calculator
-Description: This project provides a simple script to calculate simple interest based on user inputs.
-Prerequisites: Needs bash to run
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
